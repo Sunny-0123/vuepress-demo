@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": "zhouhao",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.9.9"
+  }
+}
